@@ -1,0 +1,26 @@
+.static-base-image {
+    width: 540px;
+    height: 600px;
+}
+
+.static-height-600 {
+    height: 600px;
+}
+
+.title {
+    hyphens: auto;
+}
+
+.light-brown-font {
+    color: #A18A68;
+    font-weight: 550;
+}
+
+.gray-text {
+    color: #707070;
+}
+
+.hoverable:hover {
+    color: black;
+    border-bottom: 1px solid black;
+}

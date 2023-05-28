@@ -1,0 +1,19 @@
+.product-contaier {
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    max-width: 33.3333%;
+    hyphens: auto;
+}
+
+.light-brown-font {
+    color: #A18A68;
+    font-weight: 550;
+}
+  
+.element {
+    flex: 0 0 calc(33.33%); 
+    height: calc(33.33%); 
+}
